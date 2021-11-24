@@ -1,6 +1,7 @@
 # FunctionAproximator
 From the set of points (x, y, z), program reproduce the Parent function f(x, y)
 
+![photo_2019-01-14_07-12-27](https://user-images.githubusercontent.com/36298801/143231404-eb53d91d-722d-419d-81ea-843d6395bdff.jpg)
 
 # What is this?
 >The function can be set in three ways:
@@ -25,6 +26,3 @@ xn, yn, zn
 So this task was a hard one for me, i still want to work more with Approximator, there are few problems that i wanna fix
 (i want my program to be able working with functions that have z^2 component, and the other few cases)
 but for now this project works and i am happy)
-
-to see how it looks like follow that link :)
-https://drive.google.com/file/d/1_gxG7v4gbt9hOPJKMX_bWvGBUfE0i2Wa/view?usp=sharing
